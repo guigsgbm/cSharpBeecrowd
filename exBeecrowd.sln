@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beecrowd1045", "beecrowd104
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beecrowd1028", "beecrowd1028\beecrowd1028.csproj", "{C4ADF45F-5546-4261-82AE-58759DB0CFB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beecrowd1046", "beecrowd1046\beecrowd1046.csproj", "{D68A0073-51E6-4127-B8F2-3DCCC5780BF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C4ADF45F-5546-4261-82AE-58759DB0CFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4ADF45F-5546-4261-82AE-58759DB0CFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4ADF45F-5546-4261-82AE-58759DB0CFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68A0073-51E6-4127-B8F2-3DCCC5780BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68A0073-51E6-4127-B8F2-3DCCC5780BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68A0073-51E6-4127-B8F2-3DCCC5780BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68A0073-51E6-4127-B8F2-3DCCC5780BF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
