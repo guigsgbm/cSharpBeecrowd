@@ -95,7 +95,12 @@
       "ProjectGuid": "c4adf45f-5546-4261-82ae-58759db0cfb7",
       "DisplayName": "beecrowd1028",
       "ColorIndex": 1
+    },
+    "d68a0073-51e6-4127-b8f2-3dccc5780bf6": {
+      "ProjectGuid": "d68a0073-51e6-4127-b8f2-3dccc5780bf6",
+      "DisplayName": "beecrowd1046",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
