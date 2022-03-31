@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66a058c7-c6c2-4a46-a6f1-5245eb9cc91a": {
+      "ProjectGuid": "66a058c7-c6c2-4a46-a6f1-5245eb9cc91a",
+      "DisplayName": "beecrowd1035",
+      "ColorIndex": 0
+    },
+    "b604ae99-1ec0-4af4-ac5f-bb25a1b6a6c1": {
+      "ProjectGuid": "b604ae99-1ec0-4af4-ac5f-bb25a1b6a6c1",
+      "DisplayName": "beecrowd1036",
+      "ColorIndex": 1
+    },
+    "839425fc-e7ce-417f-a455-4e72e377d3a1": {
+      "ProjectGuid": "839425fc-e7ce-417f-a455-4e72e377d3a1",
+      "DisplayName": "beecrowd1037",
+      "ColorIndex": 2
+    },
+    "450dbf91-58f7-4955-9800-9184a99e4c77": {
+      "ProjectGuid": "450dbf91-58f7-4955-9800-9184a99e4c77",
+      "DisplayName": "beecrowd1038",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "e9bec386-0f82-4292-9c05-1851637bb4e9": {
+      "ProjectGuid": "e9bec386-0f82-4292-9c05-1851637bb4e9",
+      "DisplayName": "beecrowd1038",
+      "ColorIndex": 4
+    },
+    "f941546e-2d91-4f31-94e8-896176a0e851": {
+      "ProjectGuid": "f941546e-2d91-4f31-94e8-896176a0e851",
+      "DisplayName": "beecrowd1040",
+      "ColorIndex": 5
+    },
+    "f8a8e3d3-13fd-4488-b020-af33bdd15c7f": {
+      "ProjectGuid": "f8a8e3d3-13fd-4488-b020-af33bdd15c7f",
+      "DisplayName": "beecrowd1041",
+      "ColorIndex": 6
+    },
+    "4cb90bd5-9429-4f77-bf59-285125750508": {
+      "ProjectGuid": "4cb90bd5-9429-4f77-bf59-285125750508",
+      "DisplayName": "beecrowd3346",
+      "ColorIndex": 7
+    },
+    "bf3a153f-a304-418e-ae5e-62f42111ba4f": {
+      "ProjectGuid": "bf3a153f-a304-418e-ae5e-62f42111ba4f",
+      "DisplayName": "beecrowd3299",
+      "ColorIndex": 8
+    },
+    "2e99a0e9-ff05-4e52-94ee-9f18a32a82bb": {
+      "ProjectGuid": "2e99a0e9-ff05-4e52-94ee-9f18a32a82bb",
+      "DisplayName": "beecrowd1022",
+      "ColorIndex": 9
+    },
+    "2dd33feb-278d-4f4e-81fa-3e4fca43fff5": {
+      "ProjectGuid": "2dd33feb-278d-4f4e-81fa-3e4fca43fff5",
+      "DisplayName": "beecrowd1022",
+      "ColorIndex": 10
+    },
+    "35ebfd81-a464-409b-afb4-1aacda260bee": {
+      "ProjectGuid": "35ebfd81-a464-409b-afb4-1aacda260bee",
+      "DisplayName": "beecrowd1042",
+      "ColorIndex": 11
+    },
+    "37813770-fd19-4b00-98af-a45f389ff4e3": {
+      "ProjectGuid": "37813770-fd19-4b00-98af-a45f389ff4e3",
+      "DisplayName": "beecrowd1043",
+      "ColorIndex": 12
+    },
+    "b6eeef8b-af49-4912-9a75-a94657745a74": {
+      "ProjectGuid": "b6eeef8b-af49-4912-9a75-a94657745a74",
+      "DisplayName": "beecrowd1044",
+      "ColorIndex": 13
+    },
+    "ddb88d62-afe6-4540-8bcc-c651999c981c": {
+      "ProjectGuid": "ddb88d62-afe6-4540-8bcc-c651999c981c",
+      "DisplayName": "beecrowd1026",
+      "ColorIndex": 14
+    },
+    "c6fa075b-1627-4ddb-856d-41d6b81ca620": {
+      "ProjectGuid": "c6fa075b-1627-4ddb-856d-41d6b81ca620",
+      "DisplayName": "beecrowd1048",
+      "ColorIndex": 15
+    },
+    "1d145bb7-c486-487c-8285-0aaa37aa5a9b": {
+      "ProjectGuid": "1d145bb7-c486-487c-8285-0aaa37aa5a9b",
+      "DisplayName": "beecrowd1045",
+      "ColorIndex": 0
+    },
+    "c4adf45f-5546-4261-82ae-58759db0cfb7": {
+      "ProjectGuid": "c4adf45f-5546-4261-82ae-58759db0cfb7",
+      "DisplayName": "beecrowd1028",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,8 @@
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\bin\Debug\beecrowd1041.exe.config
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\bin\Debug\beecrowd1041.exe
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\bin\Debug\beecrowd1041.pdb
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\obj\Debug\beecrowd1041.csproj.AssemblyReference.cache
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\obj\Debug\beecrowd1041.csproj.SuggestedBindingRedirects.cache
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\obj\Debug\beecrowd1041.csproj.CoreCompileInputs.cache
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\obj\Debug\beecrowd1041.exe
+C:\repGit\beecrowd\exBeecrowd\beecrowd1041\obj\Debug\beecrowd1041.pdb
