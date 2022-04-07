@@ -1,0 +1,8 @@
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\bin\Debug\beecrowd1049.exe.config
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\bin\Debug\beecrowd1049.exe
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\bin\Debug\beecrowd1049.pdb
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\obj\Debug\beecrowd1049.csproj.AssemblyReference.cache
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\obj\Debug\beecrowd1049.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\obj\Debug\beecrowd1049.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\obj\Debug\beecrowd1049.exe
+C:\Users\guilherme.magalhaes\Source\Repos\cSharpBeecrowd\beecrowd1049\obj\Debug\beecrowd1049.pdb
