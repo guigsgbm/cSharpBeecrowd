@@ -116,6 +116,7 @@
       "DisplayName": "beecrowd1047",
       "ColorIndex": 5
     },
+<<<<<<< HEAD
     "f8368d17-6729-4ec0-a5fe-69cec87e58a0": {
       "ProjectGuid": "f8368d17-6729-4ec0-a5fe-69cec87e58a0",
       "DisplayName": "beecrowd1050",
@@ -124,6 +125,16 @@
     "72cba70d-5574-41b9-b1ac-0aeaeecd6c74": {
       "ProjectGuid": "72cba70d-5574-41b9-b1ac-0aeaeecd6c74",
       "DisplayName": "beecrowd1051",
+=======
+    "8b733a69-0f82-442c-9859-cef317526bcb": {
+      "ProjectGuid": "8b733a69-0f82-442c-9859-cef317526bcb",
+      "DisplayName": "beecrowd1049",
+      "ColorIndex": 6
+    },
+    "635fdc91-1902-4236-91ec-90a2af25bae9": {
+      "ProjectGuid": "635fdc91-1902-4236-91ec-90a2af25bae9",
+      "DisplayName": "beecrowd1049",
+>>>>>>> e2901f1738b26b6c73d695ab1406cae9e8fdd858
       "ColorIndex": 7
     }
   },
