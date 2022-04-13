@@ -1,0 +1,8 @@
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\bin\Debug\beecrowd1064.exe.config
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\bin\Debug\beecrowd1064.exe
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\bin\Debug\beecrowd1064.pdb
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\obj\Debug\beecrowd1064.csproj.SuggestedBindingRedirects.cache
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\obj\Debug\beecrowd1064.csproj.CoreCompileInputs.cache
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\obj\Debug\beecrowd1064.exe
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\obj\Debug\beecrowd1064.pdb
+C:\ProjetosVS\Projetos\exBeecrowd\beecrowd1064\obj\Debug\beecrowd1064.csproj.AssemblyReference.cache

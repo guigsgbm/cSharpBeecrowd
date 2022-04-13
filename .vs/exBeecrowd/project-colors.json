@@ -130,7 +130,22 @@
       "ProjectGuid": "635fdc91-1902-4236-91ec-90a2af25bae9",
       "DisplayName": "beecrowd1049",
       "ColorIndex": 8
+    },
+    "1abb2672-09b9-4a42-9ed2-311ac0401339": {
+      "ProjectGuid": "1abb2672-09b9-4a42-9ed2-311ac0401339",
+      "DisplayName": "beecrowd1052",
+      "ColorIndex": 9
+    },
+    "5059721a-6537-471b-b082-17d1b47c2985": {
+      "ProjectGuid": "5059721a-6537-471b-b082-17d1b47c2985",
+      "DisplayName": "beecrowd1059",
+      "ColorIndex": 10
+    },
+    "391971c4-0fc3-437d-b012-f70372b299fe": {
+      "ProjectGuid": "391971c4-0fc3-437d-b012-f70372b299fe",
+      "DisplayName": "beecrowd1060",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 12
 }
